@@ -156,11 +156,17 @@ namespace cse210_student_csharp_tictactoe_complete
         /// <param name="currentPlayer">The sign (x or o) of the current player.</param>
         /// <returns>A 1-based spot number (not a 0-based index)</returns>
         static int GetMoveChoice(string currentPlayer)
-        {
-            Console.Write($"{currentPlayer}'s turn to choose a square (1-9): ");
-            string move_string = Console.ReadLine();
+        {   int choice = 0;
+            do
+            {
+                Console.Write($"{currentPlayer}'s turn to choose a square (1-9): ");
+                string move_string = Console.ReadLine();
 
-            int choice = int.Parse(move_string);
+            
+                 choice = int.Parse(move_string);
+            
+                
+            }   while(choice > 9 || choice < 1);
             return choice;
         }
 
