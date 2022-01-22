@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\cse210_homework\abstraction\bin\Debug\net6.0\abstraction.exe
+C:\Users\user\Downloads\cse210_homework\abstraction\bin\Debug\net6.0\abstraction.deps.json
+C:\Users\user\Downloads\cse210_homework\abstraction\bin\Debug\net6.0\abstraction.runtimeconfig.json
+C:\Users\user\Downloads\cse210_homework\abstraction\bin\Debug\net6.0\abstraction.dll
+C:\Users\user\Downloads\cse210_homework\abstraction\bin\Debug\net6.0\ref\abstraction.dll
+C:\Users\user\Downloads\cse210_homework\abstraction\bin\Debug\net6.0\abstraction.pdb
+C:\Users\user\Downloads\cse210_homework\abstraction\obj\Debug\net6.0\abstraction.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\cse210_homework\abstraction\obj\Debug\net6.0\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\cse210_homework\abstraction\obj\Debug\net6.0\abstraction.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\cse210_homework\abstraction\obj\Debug\net6.0\abstraction.AssemblyInfo.cs
+C:\Users\user\Downloads\cse210_homework\abstraction\obj\Debug\net6.0\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\cse210_homework\abstraction\obj\Debug\net6.0\abstraction.dll
+C:\Users\user\Downloads\cse210_homework\abstraction\obj\Debug\net6.0\ref\abstraction.dll
+C:\Users\user\Downloads\cse210_homework\abstraction\obj\Debug\net6.0\abstraction.pdb
+C:\Users\user\Downloads\cse210_homework\abstraction\obj\Debug\net6.0\abstraction.genruntimeconfig.cache
