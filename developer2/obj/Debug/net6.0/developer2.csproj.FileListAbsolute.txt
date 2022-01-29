@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\cse210_homework\developer2\obj\Debug\net6.0\developer2.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\cse210_homework\developer2\obj\Debug\net6.0\developer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\cse210_homework\developer2\obj\Debug\net6.0\developer2.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\cse210_homework\developer2\obj\Debug\net6.0\developer2.AssemblyInfo.cs
+C:\Users\user\Downloads\cse210_homework\developer2\obj\Debug\net6.0\developer2.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\cse210_homework\developer2\bin\Debug\net6.0\developer2.exe
+C:\Users\user\Downloads\cse210_homework\developer2\bin\Debug\net6.0\developer2.deps.json
+C:\Users\user\Downloads\cse210_homework\developer2\bin\Debug\net6.0\developer2.runtimeconfig.json
+C:\Users\user\Downloads\cse210_homework\developer2\bin\Debug\net6.0\developer2.dll
+C:\Users\user\Downloads\cse210_homework\developer2\bin\Debug\net6.0\ref\developer2.dll
+C:\Users\user\Downloads\cse210_homework\developer2\bin\Debug\net6.0\developer2.pdb
+C:\Users\user\Downloads\cse210_homework\developer2\obj\Debug\net6.0\developer2.dll
+C:\Users\user\Downloads\cse210_homework\developer2\obj\Debug\net6.0\ref\developer2.dll
+C:\Users\user\Downloads\cse210_homework\developer2\obj\Debug\net6.0\developer2.pdb
+C:\Users\user\Downloads\cse210_homework\developer2\obj\Debug\net6.0\developer2.genruntimeconfig.cache
